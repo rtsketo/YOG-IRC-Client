@@ -1,0 +1,28 @@
+
+
+Version:	3.10
+CmdLine:	F:\Cloud\Dropbox\Programming\NetBeansProjects\ygoLauncher\yog.exe --l4j-debug
+WOW64:		yes
+Working dir:	F:\Cloud\Dropbox\Programming\NetBeansProjects\ygoLauncher\.
+Java min ver:	1.8.0
+Java max ver:	
+Bundled JRE:	\jre
+Check launcher:	\jre\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_144
+Check launcher:	C:\Program Files\Java\jre1.8.0_144\bin\javaw.exe (OK)
+Match:		1.8.0_144
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_144
+Ignore:		1.8.0_144
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.8.0_144 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_144\bin\javaw.exe
+Launcher args:	-jar "F:\Cloud\Dropbox\Programming\NetBeansProjects\ygoLauncher\yog.exe"
+Args length:	72/32768 chars
+Exit code:	0

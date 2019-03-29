@@ -1,0 +1,14 @@
+.root {
+    -fx-background-color: transparent;
+}
+
+.scroll-bar .track {
+    -fx-background-color: #deefff;
+}
+
+
+/*#login {
+    -fx-background-image: url("../ygolauncher/Yog%20Online/eisodos1.png");
+    -fx-background-position: center center;
+    -fx-background-size: contain;
+}*/

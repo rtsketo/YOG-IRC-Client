@@ -1,0 +1,148 @@
+Excelsior JET v12.0 Evaluation 64-bit (c) Excelsior 1997,2016
+Active Java SE Version 1.8.0_121 (profile 8121)
+************************  JET v12.0 EVALUATION **************************
+*  This program cannot be used in a business, commercial, government,  *
+*  or  institutional  environment  except  for  evaluation  purposes.  *
+************************************************************************
+Make project "F:\Cloud\Dropbox\Programming\NetBeansProjects\ygoLauncher\yog.prj"
+Reading dist/ygoLauncher.jar ...  10 classes
+Reading dist/lib/commons-codec-1.10.jar ... 
+
+Total compilable classes within classpath entries: 10
+
+------------------------  Parsing Stage  ---------------------------------------
+
+   1/10: dist\ygoLauncher.jar:/ygolauncher/GetNetworkAddress.class
+   2/10: dist\ygoLauncher.jar:/ygolauncher/IrcChatController.class
+   3/34: dist\ygoLauncher.jar:/ygolauncher/YgoLauncher$1$1.class
+   4/34: dist\ygoLauncher.jar:/ygolauncher/YgoLauncher$1.class
+   5/34: dist\ygoLauncher.jar:/ygolauncher/YgoLauncher.class
+   6/34: dist\ygoLauncher.jar:/ygolauncher/ircReader$1.class
+   7/34: dist\ygoLauncher.jar:/ygolauncher/ircReader.class
+   8/34: dist\ygoLauncher.jar:/ygolauncher/ygoIRC$1.class
+   9/34: dist\ygoLauncher.jar:/ygolauncher/ygoIRC$2.class
+  10/34: dist\ygoLauncher.jar:/ygolauncher/ygoIRC.class
+  11/34: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/binary/Base64.class
+  12/34: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/binary/StringUtils.class
+  13/34: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/EncoderException.class
+  14/34: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/binary/BaseNCodec$Context.class
+  15/34: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/Charsets.class
+  16/34: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/DecoderException.class
+  17/34: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/binary/BaseNCodec.class
+  18/34: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/BinaryEncoder.class
+  19/34: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/Encoder.class
+  20/34: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/BinaryDecoder.class
+  21/34: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/Decoder.class
+  22/34: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/binary/CharSequenceUtils.class
+  23/34: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$55.class
+  24/34: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$57.class
+  25/34: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$101.class
+  26/34: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$109.class
+  27/34: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$110.class
+  28/34: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$111.class
+  29/34: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$120.class
+  30/34: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$122.class
+  31/34: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$127.class
+  32/34: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$128.class
+  33/34: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$129.class
+  34/34: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$130.class
+
+List of classes with absent superclass or superinterface:
+  com/sun/javafx/logging/JFRPulseEvent 
+	superclass com/oracle/jrockit/jfr/TimedEvent
+  com/sun/javafx/logging/JFRInputEvent 
+	superclass com/oracle/jrockit/jfr/TimedEvent
+-------------------------------------------------------------------
+files: 34  errors: 0  warnings: 0  notices: 0
+
+--------------------  Inline Planning Stage  -----------------------------------
+                    
+
+-------------------------------------------------------------------
+New "F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/yog.meta.sym" is generated
+
+------------------------  Codegen Stage  ---------------------------------------
+
+  0% done, 34/34 to go: dist\ygoLauncher.jar:/ygolauncher/GetNetworkAddress.class
+errors(0), warnings(0), notes(0); bytes(7484), time  0.66
+  2% done, 33/34 to go: dist\ygoLauncher.jar:/ygolauncher/IrcChatController.class
+errors(0), warnings(0), notes(0); bytes(55414), time  1.32
+  5% done, 32/34 to go: dist\ygoLauncher.jar:/ygolauncher/ygoIRC.class
+errors(0), warnings(0), notes(0); bytes(12072), time  0.36
+  8% done, 31/34 to go: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/binary/Base64.class
+errors(0), warnings(0), notes(0); bytes(24656), time  0.69
+ 11% done, 30/34 to go: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/binary/BaseNCodec$Context.class
+errors(0), warnings(0), notes(0); bytes(4952), time  0.03
+ 14% done, 29/34 to go: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/binary/BaseNCodec.class
+errors(0), warnings(0), notes(0); bytes(16178), time  0.22
+ 17% done, 28/34 to go: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/EncoderException.class
+errors(0), warnings(0), notes(0); bytes(5793), time  0.01
+ 20% done, 27/34 to go: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/DecoderException.class
+errors(0), warnings(0), notes(0); bytes(5793), time  0.02
+ 23% done, 26/34 to go: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/BinaryEncoder.class
+errors(0), warnings(0), notes(0); bytes(2039), time  0.00
+ 26% done, 25/34 to go: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/Encoder.class
+errors(0), warnings(0), notes(0); bytes(1803), time  0.00
+ 29% done, 24/34 to go: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/BinaryDecoder.class
+errors(0), warnings(0), notes(0); bytes(2039), time  0.00
+ 32% done, 23/34 to go: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/Decoder.class
+errors(0), warnings(0), notes(0); bytes(1803), time  0.00
+ 35% done, 22/34 to go: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/binary/StringUtils.class
+errors(0), warnings(0), notes(0); bytes(13268), time  0.23
+ 38% done, 21/34 to go: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/binary/CharSequenceUtils.class
+errors(0), warnings(0), notes(0); bytes(4113), time  0.05
+ 41% done, 20/34 to go: dist\lib\commons-codec-1.10.jar:/org/apache/commons/codec/Charsets.class
+errors(0), warnings(0), notes(0); bytes(5830), time  0.07
+ 44% done, 19/34 to go: dist\ygoLauncher.jar:/ygolauncher/ircReader.class
+errors(0), warnings(0), notes(0); bytes(10294), time  0.18
+ 47% done, 18/34 to go: dist\ygoLauncher.jar:/ygolauncher/ircReader$1.class
+errors(0), warnings(0), notes(0); bytes(2962), time  0.01
+ 50% done, 17/34 to go: dist\ygoLauncher.jar:/ygolauncher/ygoIRC$1.class
+errors(0), warnings(0), notes(0); bytes(3156), time  0.03
+ 52% done, 16/34 to go: dist\ygoLauncher.jar:/ygolauncher/ygoIRC$2.class
+errors(0), warnings(0), notes(0); bytes(3449), time  0.01
+ 55% done, 15/34 to go: dist\ygoLauncher.jar:/ygolauncher/YgoLauncher.class
+errors(0), warnings(0), notes(0); bytes(6272), time  0.07
+ 58% done, 14/34 to go: dist\ygoLauncher.jar:/ygolauncher/YgoLauncher$1.class
+errors(0), warnings(0), notes(0); bytes(3816), time  0.02
+ 61% done, 13/34 to go: dist\ygoLauncher.jar:/ygolauncher/YgoLauncher$1$1.class
+errors(0), warnings(0), notes(0); bytes(2785), time  0.00
+ 64% done, 12/34 to go: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$55.class
+errors(0), warnings(0), notes(0); bytes(3169), time  0.02
+ 67% done, 11/34 to go: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$57.class
+errors(0), warnings(0), notes(0); bytes(3169), time  0.01
+ 70% done, 10/34 to go: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$101.class
+errors(0), warnings(0), notes(0); bytes(3201), time  0.01
+ 73% done, 9/34 to go: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$109.class
+errors(0), warnings(0), notes(0); bytes(3200), time  0.01
+ 76% done, 8/34 to go: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$110.class
+errors(0), warnings(0), notes(0); bytes(3201), time  0.01
+ 79% done, 7/34 to go: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$111.class
+errors(0), warnings(0), notes(0); bytes(3200), time  0.02
+ 82% done, 6/34 to go: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$120.class
+errors(0), warnings(0), notes(0); bytes(3263), time  0.01
+ 85% done, 5/34 to go: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$122.class
+errors(0), warnings(0), notes(0); bytes(2980), time  0.01
+ 88% done, 4/34 to go: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$127.class
+errors(0), warnings(0), notes(0); bytes(2975), time  0.00
+ 91% done, 3/34 to go: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$128.class
+errors(0), warnings(0), notes(0); bytes(2981), time  0.01
+ 94% done, 2/34 to go: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$129.class
+errors(0), warnings(0), notes(0); bytes(3092), time  0.02
+ 97% done, 1/34 to go: F:/Cloud/Dropbox/Programming/NetBeansProjects/ygoLauncher/yog_jetpdb/lambda.classes/ygolauncher/IrcChatController$$Lambda$130.class
+errors(0), warnings(0), notes(0); bytes(2918), time  0.01
+Processing startup profile...
+Preparing resources for packing ...
+Processing dist/ygoLauncher.jar ...
+Processing dist/lib/commons-codec-1.10.jar ...
+Resources were successfully prepared for packing.
+-------------------------------------------------------------------
+files: 34  errors: 0  warnings: 0  notices: 0
+
+XDS Link Version 2.25.37 Copyright (c) Excelsior 1995-2017.
+No errors, no warnings
+
+Link time 0:06.22
+
+Total compilation time 0:25.32
+

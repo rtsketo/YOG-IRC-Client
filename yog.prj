@@ -1,0 +1,49 @@
+%%Excelsior JET v12.0 project file
+
+-compilewithfixedheap-
+-genstackalloc+
+-genstacktrace-
+-global+
+-gui-
+-ignoreclassduplication+
+-ignorememberabsence+
+-inline+
+-jetcpenablemanualsettings+
+-multiapp-
+-pgo+
+-splashgetfrommanifest-
+
+-apptype=Plain
+-classabsence=HANDLE
+-compilerheap=1744830464
+-inlinelimit=250
+-inlinetolimit=2000
+-jetcplastpage:=PageCompile
+-jetrt=Desktop
+-jetvmprop=-Djet.jit.disable.resolution -Djet.gc.heaplimit:0 -Djet.stack.trace
+-jprofile=./yog.jprof
+-main=ygolauncher/YgoLauncher
+-outputdir=.
+-outputname=yog
+-saprofmode=NONE
+-splash=./src/ygolauncher/images/yugioh.png
+-stacklimit=900000
+-startupprofile=./yog.startup
+
+
+
+
+!classpathentry ./dist/ygoLauncher.jar
+  -pack=noncompiled
+  -protect=all
+  -optimize=all
+!end
+!classpathentry ./dist/lib/commons-codec-1.10.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=autodetect
+!end
+
+!module ./src/ygolauncher/images/cards.ico
+!module ./yog.usg
+
